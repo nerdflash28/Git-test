@@ -82,5 +82,18 @@
 
 ## Splitting commits 
 
+## How to make a GIT repo
+
+### Method 1 (create Remote repository then clone to local repository)
+    * login into the github account
+    * create new repo with readme.md file
+    * clone repository on the local machine
+
+### Method 2 (Create Local repository then map to Remote repository)
+    * create a local folder 
+    * intialise this folder as git repository using git init
+    * now make a local commit on this repository
+    * map the remote repository to this local drive 
+    * push the changes to remote repository
 
  
